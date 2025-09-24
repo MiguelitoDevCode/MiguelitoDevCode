@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Passionn%C3%A9+de+code+%F0%9F%9A%80;Toujours+en+apprentissage+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
+## 💻Ma plateforme: https://miguelito-devcode.tech
+<img width="1346" height="645" alt="MDC" src="https://github.com/user-attachments/assets/35ddddae-a590-4bdd-a5d5-48af049dbd8d" />
+
 ## 🚀 À propos de moi
 
 - 🔭 **Web Developer** passionné par la création d'expériences web exceptionnelles
