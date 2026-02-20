@@ -9,7 +9,7 @@
 
 ## 🚀 À propos de moi
 
-- 🔭 **Web Developer** passionné par la création d'expériences web exceptionnelles
+- 🔭 **Web Developer/UI-UX Designer** passionné par la création d'expériences web exceptionnelles
 - 🌱 En constante évolution et apprentissage de nouvelles technologies
 - 💡 J'aime transformer des idées en code fonctionnel
 - 📫 Contact : **medjomarcelmiguel@gmail.com**
