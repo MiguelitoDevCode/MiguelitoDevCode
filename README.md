@@ -1,4 +1,4 @@
-# 👋 Salut, c'est MIGUELITO DevCode !
+# 👋 Salut, c'est MIGUELITO Design !
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;Passionn%C3%A9+de+code+%F0%9F%9A%80;Toujours+en+apprentissage+%F0%9F%93%9A" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 ## 🚀 À propos de moi
 
-- 🔭 **Web Developer/UI-UX Designer** passionné par la création d'expériences web exceptionnelles
-- 🌱 En constante évolution et apprentissage de nouvelles technologies
-- 💡 J'aime transformer des idées en code fonctionnel
+- 🔭 **Frontend | UI-UX Designer** passionné par la création d'expériences web exceptionnelles
+- 🌱 Focus sur la conversion, l'immersion et la performance.
+- 💡 J'aime transformer des idées en interfaces fonctionnelles et orientées Business.
 - 📫 Contact : **medjomarcelmiguel@gmail.com**
-- 🎯 Objectif : Contribuer à des projets innovants et impactants
+- 🎯 Objectif : Contribuer à des projets innovants et impactants.
 
 ## 🛠️ Technologies & Outils
 
@@ -75,7 +75,6 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelitoDevCode)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medjomarcelmiguel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelito-devcode)
 
