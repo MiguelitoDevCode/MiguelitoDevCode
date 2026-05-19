@@ -8,7 +8,10 @@
 
 <br/>
 
-![Miguelito-Design](./preview.png)
+<div align="center">
+  <!-- Vous pouvez remplacer cette image par une vraie bannière issue de miguelito-design.dev -->
+  <img width="800" alt="MIGUELITO Design Portfolio Banner" src="https://github.com/user-attachments/assets/35ddddae-a590-4bdd-a5d5-48af049dbd8d" />
+</div>
 
 ## 🚀 À propos de moi
 
@@ -22,26 +25,30 @@ Passionné par l'alliance entre le design visuel et le code, je suis **UI/UX Des
 
 ---
 
-## 🎨 Technologies & Outils de Design
+## 🎨 Technologies & Outils
 
 <div align="center">
   
 ### Design & Prototypage
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Frontend Engineering
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Backend (Full Stack mindset)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Outils & Travail en équipe
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 </div>
 
 ---
@@ -59,14 +66,28 @@ Passionné par l'alliance entre le design visuel et le code, je suis **UI/UX Des
 
 ---
 
-## 🤝 Connectons-nous !
+## 🤝 Collaborons !
 
-Retrouvez mon travail, mes maquettes et mes projets sur mes différents réseaux :
+Vous avez un projet en tête ou besoin d'une refonte visuelle ? Je suis disponible pour transformer vos idées en expériences digitales exceptionnelles. Découvrez mes réalisations et mon univers créatif :
+
+<br/>
+
+<div align="center">
+  <a href="https://miguelito-design.dev">
+    <img src="https://img.shields.io/badge/🌍_Visitez_mon_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&padding=large" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://dribbble.com/MiguelitoUIUXDesign">
+    <img src="https://img.shields.io/badge/🎨_Découvrez_mon_Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&padding=large" alt="Dribbble" />
+  </a>
+</div>
+
+<br/>
+
+Retrouvez-moi également sur mes autres réseaux :
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-miguelito--design.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelito-design.dev)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/MiguelitoUIUXDesign)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelito-devcode)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medjomarcelmiguel@gmail.com)
 
