@@ -8,10 +8,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- Vous pouvez remplacer cette image par une vraie bannière issue de miguelito-design.dev -->
-  <img width="800" alt="MIGUELITO Design Portfolio Banner" src="https://github.com/user-attachments/assets/35ddddae-a590-4bdd-a5d5-48af049dbd8d" />
-</div>
+![Miguelito-Design](./preview.png)
 
 ## 🚀 À propos de moi
 
