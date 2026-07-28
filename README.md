@@ -22,6 +22,25 @@ Passionné par l'alliance entre le design visuel et le code, je suis **UI/UX Des
 
 ---
 
+## 🇬🇧 About me (English version)
+
+Passionate about combining visual design and code, I am a **UI/UX Designer** and **Frontend Engineer**. My approach is minimalist and user-centered, with strong attention to **conversion**, **immersion**, and **performance**.
+
+- 🔭 I design modern interfaces and integrate them pixel-perfectly.
+- 🌱 **Current focus:** Building smooth web experiences (SaaS, landing pages, web apps) aligned with business goals.
+- 💡 I enjoy turning complex ideas into simple, intuitive, and aesthetic digital solutions.
+- 🎯 **Goal:** Contribute to innovative and impactful digital projects.
+- 📫 **Contact:** medjomarcelmiguel@gmail.com
+
+## 🧾 GitHub profile description
+
+**Suggested profile description:**  
+`UI/UX Designer & Frontend Engineer — I craft high-conversion, user-centered digital experiences with clean design and performant frontend code.`
+
+> To make this README appear on your GitHub profile, the repository must be named exactly like your username: `MiguelitoDesign`.
+
+---
+
 ## 🎨 Technologies & Outils
 
 <div align="center">
