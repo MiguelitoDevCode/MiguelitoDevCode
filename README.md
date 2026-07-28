@@ -64,11 +64,6 @@ Passionate about combining visual design and code, I am a **UI/UX Designer** and
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelitoDesign&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelitoDesign&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelitoDesign&theme=radical" alt="GitHub Streak" />
 </div>
 
